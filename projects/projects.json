@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Webside DIY",
+    "desc": "Situs web DIY menjadi tempat di mana pengguna dapat menemukan beragam ide dan tutorial untuk berbagai bidang.",
+    "image": "diy",
+    "category": "website",
+    "links": {
+      "view": "https://diy-website.000webhostapp.com/index.html",
+      "code": "https://github.com/Vioneta-Zarazsofia/DIY-HAVIO.github.io.git"
+    }
+  },
+  {
+    "name": "USA Laundry",
+    "desc": "USA Laundry adalah solusi modern untuk tugas sehari-hari yang umum namun memerlukan waktu dan perhatian: mencuci pakaian.",
+    "image": "laundry",
+    "category": "website",
+    "links": {
+      "view": "https://laundryusa.000webhostapp.com/",
+      "code": "https://github.com/Vioneta-Zarazsofia/FP-PEMWEB-Kelompok-13-.git"
+    }
+  },
+  {
+    "name": "Admin Laundry",
+    "desc": "Tempat di mana administrator atau pengelola memiliki akses penuh atau terbatas untuk mengontrol aspek-aspek kunci dari suatu sistem atau aplikasi",
+    "image": "AdmLaundry",
+    "category": "website",
+    "links": {
+      "view": "https://laundry1234567.000webhostapp.com/admin/",
+      "code": "https://github.com/Vioneta-Zarazsofia/FP-PEMWEB-Kelompok-13-.git"
+    }
+  }
+]
