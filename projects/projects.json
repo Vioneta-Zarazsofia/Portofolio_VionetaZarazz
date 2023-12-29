@@ -1,8 +1,35 @@
 [
   {
+    "name": "CITRUS",
+    "desc": "Aplikasi CITRUS menggunakan kecerdasan buatan untuk mendeteksi buah kualitas dan jumlah buah",
+    "image": "citrus",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/Vioneta-Zarazsofia/Aplikasi-CITRUS_ORBIT_MSIB5.git"
+    }
+  },
+  {
+    "name": "ScarWash",
+    "desc": "ScarWash adalah aplikasi yang dapat membantu pengguna untuk mencuci sepatu tanpa harus keluar rumah.",
+    "image": "scarwash",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/Vioneta-Zarazsofia/FP_YesTech_Vioneta.git"
+    }
+  },
+  {
+    "name": "Pencatatan Infak & Sedekah",
+    "desc": "Aplikasi Pencatatan Infak & Sedekah adalah aplikasi yang dapat membantu pengguna untuk mencatat infak dan sedekah yang telah diberikan.",
+    "image": "infak",
+    "category": "website",
+    "links": {
+      "code": "https://github.com/Vioneta-Zarazsofia/Catatan-Keuangan-Infak-Sedekah.git"
+    }
+  },
+  {
     "name": "Webside DIY",
     "desc": "Situs web DIY menjadi tempat di mana pengguna dapat menemukan beragam ide dan tutorial untuk berbagai bidang.",
-    "image": "diy",
+    "image": "diy.png",
     "category": "website",
     "links": {
       "view": "https://diy-website.000webhostapp.com/index.html",

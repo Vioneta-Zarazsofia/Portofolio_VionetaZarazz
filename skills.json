@@ -52,6 +52,18 @@
     "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
   },
   {
+    "name": "Flutter",
+    "icon": "https://img.icons8.com/color/48/flutter.png"
+  },
+  {
+    "name": "Flask",
+    "icon": "https://img.icons8.com/nolan/64/flask.png"
+  },
+  {
+    "name": "Firebase",
+    "icon": "https://img.icons8.com/color/48/google-firebase-console.png"
+  },
+  {
     "name": "Figma",
     "icon": "https://img.icons8.com/fluency/48/figma.png"
   },
