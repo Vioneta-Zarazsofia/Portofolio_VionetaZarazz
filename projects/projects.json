@@ -6,7 +6,6 @@
     "category": "website",
     "links": {
       "Prototype": "https://www.figma.com/proto/hKNzjBelmLGJb61nGccaEV/Desain-Ulang-Website-MARKAS-Indonesia?page-id=0%3A1&node-id=1-2&p=f&viewport=143%2C222%2C0.04&t=1TwSeFABFh9XVONX-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=36%3A672",
-     
     }
   },
   {
@@ -94,16 +93,6 @@
     "category": "website",
     "links": {
       "view": "https://laundryusa.000webhostapp.com/",
-      "code": "https://github.com/Vioneta-Zarazsofia/FP-PEMWEB-Kelompok-13-.git"
-    }
-  },
-  {
-    "name": "Admin Laundry",
-    "desc": "Tempat di mana administrator atau pengelola memiliki akses penuh atau terbatas untuk mengontrol aspek-aspek kunci dari suatu sistem atau aplikasi",
-    "image": "AdmLaundry",
-    "category": "website",
-    "links": {
-      "view": "https://laundry1234567.000webhostapp.com/admin/",
       "code": "https://github.com/Vioneta-Zarazsofia/FP-PEMWEB-Kelompok-13-.git"
     }
   }
