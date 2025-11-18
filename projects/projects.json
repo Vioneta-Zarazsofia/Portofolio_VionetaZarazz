@@ -1,10 +1,31 @@
 [
   {
+    "name": "Zaitun Mart",
+    "desc": "Zaitun Mart adalah sebuah website e-commerce yang menyediakan layanan jual beli makanan dan minuman kemasan. Sistem ini memiliki dua jenis pengguna utama, yaitu Admin dan Customer, yang masing-masing memiliki fungsi dan peran berbeda dalam pengelolaan dan proses transaksi.",
+    "image": "diy.png",
+    "category": "website",
+    "links": {
+      "view": "https://www.canva.com/design/DAF7cfIN-kM/BK3UVt2zX2OXF7FMMfeAtg/edit?utm_content=DAF7cfIN-kM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "code": "https://github.com/Vioneta-Zarazsofia/Zmart.git"
+    }
+  },
+  {
+    "name": "Webside DIY",
+    "desc": "Situs web DIY menjadi tempat di mana pengguna dapat menemukan beragam ide dan tutorial untuk berbagai bidang.",
+    "image": "diy.png",
+    "category": "website",
+    "links": {
+      "view": "https://www.canva.com/design/DAF7cfIN-kM/BK3UVt2zX2OXF7FMMfeAtg/edit?utm_content=DAF7cfIN-kM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+      "code": "https://github.com/Vioneta-Zarazsofia/DIY-HAVIO.github.io.git"
+    }
+  },
+  {
     "name": "CITRUS",
     "desc": "Aplikasi CITRUS menggunakan kecerdasan buatan untuk mendeteksi buah kualitas dan jumlah buah",
     "image": "citrus",
     "category": "website",
     "links": {
+      "view": "https://www.canva.com/design/DAGJORvoiek/5CmNIY4zVezxqeEL_dZh1Q/edit?utm_content=DAGJORvoiek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
       "code": "https://github.com/Vioneta-Zarazsofia/Aplikasi-CITRUS_ORBIT_MSIB5.git"
     }
   },
