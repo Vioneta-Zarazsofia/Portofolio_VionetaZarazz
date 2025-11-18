@@ -1,19 +1,8 @@
 [
   {
-    "name": "ZAITUN MART",
-    "desc": "Zaitun Mart adalah sebuah website sistem informasi penjualan dan pembelian yang digunakan untuk mendukung proses bisnis CV. Bukit Zaitun dalam menjual produk makanan dan minuman kemasan.",
-    "image": "images/zaitun.png",
-    "category": "website",
-    "links": {
-      "view": "https://diy-website.000webhostapp.com/index.html",
-      "code": "https://github.com/Vioneta-Zarazsofia/Zmart.git"
-    }
-  },
-[
-  {
     "name": "CITRUS",
     "desc": "Aplikasi CITRUS menggunakan kecerdasan buatan untuk mendeteksi buah kualitas dan jumlah buah",
-    "image": "images/citrus.png",
+    "image": "citrus",
     "category": "website",
     "links": {
       "code": "https://github.com/Vioneta-Zarazsofia/Aplikasi-CITRUS_ORBIT_MSIB5.git"
@@ -22,7 +11,7 @@
   {
     "name": "ScarWash",
     "desc": "ScarWash adalah aplikasi yang dapat membantu pengguna untuk mencuci sepatu tanpa harus keluar rumah.",
-    "image": "images/scarwash.png",
+    "image": "scarwash",
     "category": "website",
     "links": {
       "code": "https://github.com/Vioneta-Zarazsofia/FP_YesTech_Vioneta.git"
@@ -31,7 +20,7 @@
   {
     "name": "Pencatatan Infak & Sedekah",
     "desc": "Aplikasi Pencatatan Infak & Sedekah adalah aplikasi yang dapat membantu pengguna untuk mencatat infak dan sedekah yang telah diberikan.",
-    "image": "images/infak.png",
+    "image": "infak",
     "category": "website",
     "links": {
       "code": "https://github.com/Vioneta-Zarazsofia/Catatan-Keuangan-Infak-Sedekah.git"
@@ -40,7 +29,7 @@
   {
     "name": "Webside DIY",
     "desc": "Situs web DIY menjadi tempat di mana pengguna dapat menemukan beragam ide dan tutorial untuk berbagai bidang.",
-    "image": "images/diy.png",
+    "image": "diy.png",
     "category": "website",
     "links": {
       "view": "https://diy-website.000webhostapp.com/index.html",
@@ -50,7 +39,7 @@
   {
     "name": "USA Laundry",
     "desc": "USA Laundry adalah solusi modern untuk tugas sehari-hari yang umum namun memerlukan waktu dan perhatian: mencuci pakaian.",
-    "image": "images/laundry.png",
+    "image": "laundry",
     "category": "website",
     "links": {
       "view": "https://laundryusa.000webhostapp.com/",
@@ -60,7 +49,7 @@
   {
     "name": "Admin Laundry",
     "desc": "Tempat di mana administrator atau pengelola memiliki akses penuh atau terbatas untuk mengontrol aspek-aspek kunci dari suatu sistem atau aplikasi",
-    "image": "images/AdmLaundry.png",
+    "image": "AdmLaundry",
     "category": "website",
     "links": {
       "view": "https://laundry1234567.000webhostapp.com/admin/",
