@@ -11,7 +11,7 @@
   },
   {
     "name": "Zaitun Mart",
-    "desc": "Zaitun Mart adalah sebuah website e-commerce yang menyediakan layanan jual beli makanan dan minuman kemasan. Sistem ini memiliki dua jenis pengguna utama, yaitu Admin dan Customer.",
+    "desc": "Zaitun Mart adalah website e-commerce untuk jual beli makanan dan minuman kemasan dengan dua jenis pengguna: Admin dan Customer.",
     "image": "diy.png",
     "category": "website",
     "links": {
