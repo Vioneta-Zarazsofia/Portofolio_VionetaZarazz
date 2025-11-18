@@ -1,5 +1,16 @@
 [
   {
+    "name": "ZAITUN MART",
+    "desc": "Zaitun Mart adalah sebuah website sistem informasi penjualan dan pembelian yang digunakan untuk mendukung proses bisnis CV. Bukit Zaitun dalam menjual produk makanan dan minuman kemasan.",
+    "image": "images/zaitun.png",
+    "category": "website",
+    "links": {
+      "view": "https://diy-website.000webhostapp.com/index.html",
+      "code": "https://github.com/Vioneta-Zarazsofia/Zmart.git"
+    }
+  },
+[
+  {
     "name": "CITRUS",
     "desc": "Aplikasi CITRUS menggunakan kecerdasan buatan untuk mendeteksi buah kualitas dan jumlah buah",
     "image": "images/citrus.png",
